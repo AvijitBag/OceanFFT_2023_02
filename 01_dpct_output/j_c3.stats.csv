@@ -1,0 +1,8 @@
+
+File name, LOC migrated to SYCL, LOC migrated to helper functions, LOC not needed to migrate, LOC not able to migrate
+/home/tcs2/Avijit/cuda-samples/Common/helper_cuda.h, 80, 23, 871, 0
+/home/tcs2/Avijit/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp, 27, 19, 850, 0
+/home/tcs2/Avijit/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu, 57, 0, 103, 0
+
+Total migration time: 1928.039000 ms
+
